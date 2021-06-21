@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e041925d-c73e-4e3f-9c2d-3390f9a60634" name="Default Changelist" comment="" />
+    <list default="true" id="e041925d-c73e-4e3f-9c2d-3390f9a60634" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -39,6 +49,80 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RunManager" selected="JUnit.JdbcTest.test2">
+    <configuration name="JdbcTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringJdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigjava18.springjdbc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bigjava18.springjdbc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bigjava18.springjdbc.test.JdbcTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringJdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigjava18.springjdbc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bigjava18.springjdbc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bigjava18.springjdbc.test.JdbcTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringJdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigjava18.springjdbc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bigjava18.springjdbc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bigjava18.springjdbc.test.JdbcTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringJdbcTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bigjava18.springjdbc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bigjava18.springjdbc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.bigjava18.springjdbc.test.JdbcTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JdbcTest.test2" />
+        <item itemvalue="JUnit.JdbcTest.test4" />
+        <item itemvalue="JUnit.JdbcTest.test3" />
+        <item itemvalue="JUnit.JdbcTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -61,18 +145,72 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624115564912</updated>
-      <workItem from="1624115566890" duration="55000" />
+      <workItem from="1624115566890" duration="1117000" />
+      <workItem from="1624180661045" duration="36000" />
+      <workItem from="1624256560251" duration="1962000" />
     </task>
+    <task id="LOCAL-00001" summary="SpringJdbcTemplate">
+      <created>1624115671891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624115671891</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SpringJdbcTemplate" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpringJdbcTemplate" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="574" y="111" key="#com.intellij.ide.util.MemberChooser" timestamp="1624257725617">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="111" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1624257725617" />
+    <state x="285" y="14" key="CommitChangelistDialog2" timestamp="1624115669169">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="285" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1624115669169" />
     <state x="549" y="113" key="FileChooserDialogImpl" timestamp="1624115618371">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="113" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1624115618371" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1624258258473">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1624258258473" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1624258258472">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1624258258472" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1624258258472">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1624258258472" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1624258258473">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1624258258473" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1624258023092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1624258023092" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1624258023092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1624258023092" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1624258023092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1624258023092" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1624258023092">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1624258023092" />
     <state x="272" y="0" key="SettingsEditor" timestamp="1624115624067">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
